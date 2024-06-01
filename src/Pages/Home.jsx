@@ -1,6 +1,11 @@
+import { FaBeer } from 'react-icons/fa';
+
 const Home = () => {
     return(
-        <h1>ertyuiopdfghjklxcvbnm,dfghj</h1>
+        <div>
+            Hello, world
+        <FaBeer />
+        </div>
     )
 }
 
