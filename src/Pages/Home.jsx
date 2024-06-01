@@ -4,6 +4,7 @@ const Home = () => {
     return(
         <div>
             Hello, world
+            <button>Press</button>
         <FaBeer />
         </div>
     )
