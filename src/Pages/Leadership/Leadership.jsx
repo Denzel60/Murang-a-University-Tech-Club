@@ -1,6 +1,10 @@
+import './Leadership.css'
+
 const Leadership = () => {
     return(
-        <h1>Hello</h1>
+        <div className="leaders">
+            <img src="" alt="" />
+        </div>
     )
 }
 

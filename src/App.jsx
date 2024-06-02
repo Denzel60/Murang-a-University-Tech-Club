@@ -1,7 +1,7 @@
 import './App.css'
 import Header from "./components/Header/Header"
 import Home from './Pages/Home/Home.jsx'
-import Leadership from './Pages/Leadership/Leadership'
+import Leadership from './Pages/Leadership/Leadership.jsx'
 import Tracks from './Pages/Tracks/Tracks'
 import Events from './Pages/Events/Events';
 import { BrowserRouter, Routes, Route } from "react-router-dom";

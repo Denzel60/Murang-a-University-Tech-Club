@@ -1,0 +1,62 @@
+.Tracks{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Tracks-overview{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.form{
+    margin-top: 3em;
+    display: flex;
+}
+.form .form-img{
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3)), url(./../../assets/form.jpg);
+    height: 60vh;
+    width: 50%;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    place-content: center;
+    padding: 1rem 0;
+}
+.form-inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+input{
+    width: 80%;
+    margin: 0.5rem;
+    height: 3em;
+    font-size: 20px;
+    padding: 0;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid orange;
+    align-items: center;
+    justify-content: center;
+}
+input:hover{
+    border-bottom: 2px solid orange;
+}
+input::placeholder {
+  text-transform: capitalize;
+  color: var(--color-secondary);
+}
+.select{
+    width: 80%;
+    margin: 0.5rem;
+    height: 3em;
+    font-size: 20px;
+    padding: 0;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid orange;
+    align-items: center;
+    justify-content: center;
+}
