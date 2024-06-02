@@ -37,3 +37,9 @@
     transform: scale(105%);
     transition: ease-in-out 0.5s;
 }
+
+@media (max-width: 700px){
+    .testimonials{
+        flex-direction: column;
+    }
+}
