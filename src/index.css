@@ -19,7 +19,12 @@ a {
   text-decoration: inherit;
 }
 a:hover {
-  color: #FF6500;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  padding-bottom: 18px;
+  transition: 0.5s ease-in-out;
+  border-radius: 5px;
 }
 
 body {
