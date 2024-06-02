@@ -1,11 +1,11 @@
 import './Leadership.css'
 
 const Leadership = () => {
-    return(
+    return (
         <div className="leaders">
-            <img src="" alt="" />
+            <h1>Hello </h1>
         </div>
     )
 }
 
-export default Leadership
+export default Leadership;
