@@ -65,12 +65,12 @@ input::placeholder {
         flex-direction: column;
     }
     input{
-        width: 95%;
+        width: 100%;
     }
     .form .form-img{
         width: 95%;
     }
     .form-inputs{
-        width: 95%;
+        width: 100%;
     }
 }

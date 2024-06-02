@@ -46,5 +46,13 @@ hr{
 .leader-icon:hover{
     color: orange;
     transform: scale(105%);
+}
 
+@media (max-width: 800px) {
+    .leader-profile{
+        flex-direction: column;
+    }
+    .leaderImg{
+        width: 95%;
+    }
 }
