@@ -1,6 +1,7 @@
 .heros{
     background: url(../../assets/Events.jpg);
     height: 60vh;
+    background-attachment: fixed;
     background-position: center;
     background-size: cover;
     display: grid;
@@ -31,6 +32,9 @@
 .event-schedule:hover{
     transform: scale(105%);
     transition: ease-in-out 0.4s;
+}
+.event-schedule:hover span{
+    color: orange;
 }
 .icon{
     font-size: 80px;

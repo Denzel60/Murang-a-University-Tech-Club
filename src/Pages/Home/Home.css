@@ -1,5 +1,6 @@
 .hero{
     background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3)), url(./../../assets/heroImg.jpg);
+    background-attachment: fixed;
     height: 60vh;
     background-position: center;
     background-size: cover;

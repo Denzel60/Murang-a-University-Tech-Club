@@ -1,5 +1,8 @@
 /* eslint-disable react/no-unescaped-entities */
 import './footer.css'
+import { FaFacebookSquare } from "react-icons/fa";
+import { FaInstagramSquare } from "react-icons/fa";
+import { FaSquareXTwitter } from "react-icons/fa6";
 
 const Footer = () => {
     return (
@@ -25,9 +28,9 @@ const Footer = () => {
 
                 <div className="reach-about">
                     <h1>Follow Us</h1>
-                    <p><a href="mutc@club.com">Facebook</a></p>
-                    <p><a href="mutc@club.com">Instagram</a></p>
-                    <p><a href="mutc@club.com">Twitter</a></p>
+                    <p><a href="mutc@club.com"><span className='icons-footer'><FaFacebookSquare /></span>Facebook</a></p>
+                    <p><a href="mutc@club.com"><span className="icons-footer"><FaInstagramSquare /></span>Instagram</a></p>
+                    <p><a href="mutc@club.com"><span className='icons-footer'><FaSquareXTwitter /></span>Twitter</a></p>
                 </div>
             </div>
 

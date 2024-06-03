@@ -1,7 +1,7 @@
 .header{
     padding: 0px;
     display: flex;
-    height: 10vh;
+    /* height: 10vh; */
     justify-content: space-between;
     gap:5em;
     justify-content: flex-start;

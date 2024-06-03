@@ -14,7 +14,7 @@ const Leadership = () => {
                 <div className="leader-profile">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Dr. John Ndia </h2> <hr />
+                        <h2><span>Dr. John Ndia </span></h2> <hr />
                         <h3>Position: Patron of the club</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -29,7 +29,7 @@ const Leadership = () => {
                 <div className="leader-profile alternate">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Victory Njeri  </h2> <hr />
+                        <h2><span>Victory Njeri</span>  </h2> <hr />
                         <h3>Position: Chairperson of the club</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -43,7 +43,7 @@ const Leadership = () => {
                 <div className="leader-profile">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Allan Muhari </h2> <hr />
+                        <h2><span>Allan Muhari</span> </h2> <hr />
                         <h3>Position: Vice Chairperson of the club</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -58,7 +58,7 @@ const Leadership = () => {
                 <div className="leader-profile alternate">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Bridget Gitonga </h2> <hr />
+                        <h2><span>Bridget Gitonga</span> </h2> <hr />
                         <h3>Position: Secretary of the club</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -73,7 +73,7 @@ const Leadership = () => {
                 <div className="leader-profile">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Ruth Mutisya </h2> <hr />
+                        <h2><span>Ruth Mutisya</span> </h2> <hr />
                         <h3>Position: Treasurer of the club</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -88,7 +88,7 @@ const Leadership = () => {
                 <div className="leader-profile alternate">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Webster Ifedha  </h2> <hr />
+                        <h2><span>Webster Ifedha</span>  </h2> <hr />
                         <h3>Position: Cyber security lead</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -103,7 +103,7 @@ const Leadership = () => {
                 <div className="leader-profile">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Manase Gunga </h2> <hr />
+                        <h2><span>Manase Gunga</span> </h2> <hr />
                         <h3>Position: UI/UX lead</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -118,7 +118,7 @@ const Leadership = () => {
                 <div className="leader-profile alternate">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Carolyne Githenduka </h2> <hr />
+                        <h2><span>Carolyne Githenduka</span> </h2> <hr />
                         <h3>Position: Web development lead</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -133,7 +133,7 @@ const Leadership = () => {
                 <div className="leader-profile">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Stanley Amunze </h2> <hr />
+                        <h2><span>Stanley Amunze</span> </h2> <hr />
                         <h3>Position: Mobile apps development lead</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -148,7 +148,7 @@ const Leadership = () => {
                 <div className="leader-profile alternate">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Paul Karanja  </h2> <hr />
+                        <h2><span>Paul Karanja</span>  </h2> <hr />
                         <h3>Position: Cloud engineering lead</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">
@@ -163,7 +163,7 @@ const Leadership = () => {
                 <div className="leader-profile">
                     <img src={studentImg} alt="" className='leaderImg' />
                     <div className="leader-description">
-                        <h2>Evyonn Mbithe </h2> <hr />
+                        <h2><span>Evyonn Mbithe</span> </h2> <hr />
                         <h3>Position: Power platform lead</h3>
                         <h4>Biography: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt fugit placeat ipsum vel fugiat inventore mollitia aperiam laborum deserunt soluta?</h4>
                         <div className="icons">

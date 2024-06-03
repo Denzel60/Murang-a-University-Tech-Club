@@ -19,6 +19,13 @@
     align-items: center;
     justify-content: center;
 }
+.leader-profile:hover{
+    transform: scale(101%);
+    transition: ease-in-out 0.5s;
+}
+.leader-profile:hover span{
+    color: orange;
+}
 .leaderImg{
     width: 20em;
     /* height: 25em; */

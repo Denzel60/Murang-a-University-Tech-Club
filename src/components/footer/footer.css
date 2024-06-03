@@ -9,6 +9,10 @@
     width: 30%;
     padding: 2em;
 }
+.icons-footer{
+    color: white;
+    padding: 10px;
+}
 @media (max-width: 750px) {
     .reach{
         flex-direction: column;

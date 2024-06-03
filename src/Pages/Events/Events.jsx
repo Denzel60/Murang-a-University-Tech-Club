@@ -16,55 +16,55 @@ const Events = () => {
       <h2 className='events-title'>Our Events</h2>
       <div className="event">
         <div className="event-schedule">
-          <h2>Cyber Security</h2>
-          <p className='icon'><GiCyberEye /></p>
+          <h2><span>Cyber Security</span></h2>
+          <p className='icon'><span><GiCyberEye /></span></p>
           <p> Time: Every Monday from 4pm to 7pm </p>
           <p> Place: Computer lab F04</p>
-          <h3> Led by: Webster Ifedha</h3>
+          <h3> Led by: <span>Webster Ifedha</span></h3>
         </div>
 
         <div className="event-schedule">
-          <h2>UI/UX design</h2>
-          <p className='icon'><SiAdobeacrobatreader /></p>
+          <h2><span> UI/UX design</span></h2>
+          <p className='icon'><span><SiAdobeacrobatreader /></span></p>
           <p> Time: Every Monday from 4pm to 7pm </p>
           <p> Place: Computer lab F04</p>
-          <h3> Led by: Manase Gunga</h3>
+          <h3> Led by: <span>Manase Gunga</span></h3>
         </div>
 
         <div className="event-schedule">
-          <h2>Web development</h2>
-          <p className='icon'><FaReact /></p>
+          <h2><span>Web development</span></h2>
+          <p className='icon'><span><FaReact /></span></p>
           <p> Time: Every Wednesday from 6pm to 9pm </p>
           <p> Place: Computer lab F04</p>
-          <h3> Led by: Carolyne Githenduka</h3>
+          <h3> Led by: <span>Carolyne Githenduka</span></h3>
         </div>
 
         <div className="event-schedule">
-          <h2>Mobile apps development</h2>
-          <p className='icon'><SiAndroidstudio />
+          <h2><span>Mobile apps development</span></h2>
+          <p className='icon'><span><SiAndroidstudio /></span>
           </p>
           <p> TIme: Thursday from 4pm to 7pm  </p>
           <p> Place: Computer lab F04</p>
-          <h3> Led by: Stanley Amunze.</h3>
+          <h3> Led by: <span>Stanley Amunze</span></h3>
         </div>
 
         <div className="event-schedule">
-          <h2>Cloud engineering</h2>
-          <p className='icon'><IoIosCloudUpload /></p>
+          <h2><span>Cloud engineering</span></h2>
+          <p className='icon'><span><IoIosCloudUpload /></span></p>
           <p> TIme: every Friday from 3pm to 6pm </p>
           <p> Place: Computer lab F04</p>
-          <h3> Led by: Paul Karanja</h3>
+          <h3> Led by: <span>Paul Karanja</span></h3>
         </div>
 
         <div className="event-schedule">
-          <h2>Power Platform</h2>
-          <p className='icon'><RiFileExcel2Fill /></p>
+          <h2><span>Power Platform</span></h2>
+          <p className='icon'><span><RiFileExcel2Fill /></span></p>
           <p> TIme: Saturday from 1pm to 4pm </p>
           <p> Place: Computer lab F04</p>
-          <h3> Led by: Evyonn Mbithe</h3>
+          <h3> Led by: <span>Evyonn Mbithe</span></h3>
         </div>
       </div>
-    </div>
+    </div >
   )
 }
 
