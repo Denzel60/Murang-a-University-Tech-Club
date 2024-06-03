@@ -7,6 +7,7 @@
     justify-content: flex-start;
     width: 100%;
     border-bottom: 1px solid orange;
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1));
 }
 .header-left{
     display: flex;
