@@ -53,6 +53,8 @@ button {
 }
 button:hover {
   border-color: #FF6500;
+  transform: scale(105%);
+  transition: ease-in-out 0.3s;
 }
 button:focus,
 button:focus-visible {

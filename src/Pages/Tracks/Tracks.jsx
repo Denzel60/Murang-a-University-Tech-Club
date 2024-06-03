@@ -59,6 +59,7 @@ const Tracks = () => {
                         <option value="Cloud Engineering">Cloud Engineering</option>
                         <option value="Power Platform">Power Platform</option>
                     </select>
+                    <button type="button">Register Now</button>
                 </div>
             </div>
         </div>
