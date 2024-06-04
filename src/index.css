@@ -26,6 +26,9 @@ a:hover {
   transition: 0.5s ease-in-out;
   border-radius: 5px;
 }
+*{
+  box-sizing: border-box;
+}
 
 body {
   margin: 0; 
@@ -34,6 +37,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   color: white;
+  padding: 5px;
 } 
 
 h1 {
